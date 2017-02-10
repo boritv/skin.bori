@@ -417,7 +417,7 @@ msgstr ""
 
 #: /shortcuts/mainmenu.DATA.xml
 msgctxt "#31091"
-msgid "My OSMC"
+msgid "BORIM"
 msgstr ""
 
 #: /16x9/Variables.xml
