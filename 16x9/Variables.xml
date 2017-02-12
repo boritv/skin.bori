@@ -26,10 +26,10 @@
 
 	<variable name="OtherBackgroundImage">
 		<value condition="Player.HasAudio + System.HasAddon(script.artistslideshow) + Skin.HasSetting(EnableArtistFanart) + [Window.IsActive(visualisation) | Skin.HasSetting(BackgroundVisualisation)]" />
-		<value>$VAR[OSMCBackgroundImage]</value>
+		<value>$VAR[BORIBackgroundImage]</value>
 	</variable>
 
-	<variable name="OSMCBackgroundImage">
+	<variable name="BORIBackgroundImage">
 		<value condition="!String.IsEmpty(Skin.String(BackgroundImage))">$INFO[Skin.String(BackgroundImage),special://skin/extras/backgrounds/,.jpg]</value>
 		<value>special://skin/extras/backgrounds/1.jpg</value>
 	</variable>

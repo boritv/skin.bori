@@ -39,9 +39,9 @@
 	<shortcut>
 		<label>31091</label>
 		<label2>Custom shortcut</label2>
-		<icon>home/DefaultOSMC.png</icon>
+		<icon>home/DefaultBORI.png</icon>
 		<thumb />
-		<action>RunScript(service.osmc.settings)</action>
+		<action>RunScript(service.bori.settings)</action>
 	</shortcut>
 	<shortcut>
 		<label>1036</label>
