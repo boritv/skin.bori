@@ -1,8 +1,8 @@
 <colors>
 
 	<!-- Default colours -->
-	<color name="TextColor1">ffFFFFFF</color>
-	<color name="TextColor2">80FFFFFF</color>
+	<color name="TextColor1">ffffffff</color>
+	<color name="TextColor2">80ffffff</color>
 	<color name="TextColor3">66404040</color>
 	<color name="TextColor4">60000000</color>
 	<color name="DarkenColor">66000000</color>
@@ -23,6 +23,6 @@
 	<color name="DialogOverlayColorNF">55f1f1f1</color>
 
 	<!-- Default overlay color -->
-	<color name="OverlayColor">CC1c2ca5</color>
+	<color name="OverlayColor">CC000000</color>
 
 </colors>

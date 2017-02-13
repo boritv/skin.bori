@@ -89,13 +89,13 @@
 			<label2>Custom shortcut</label2>
 			<icon>DefaultShortcut.png</icon>
 			<thumb />
-			<property name="labelID">service.bori.settings</property>
-			<property name="defaultID">service.bori.settings</property>
-			<onclick>RunScript(service.bori.settings)</onclick>
-			<property name="path">RunScript(service.bori.settings)</property>
-			<property name="list">RunScript(service.bori.settings)</property>
+			<property name="labelID">service.osmc.settings</property>
+			<property name="defaultID">service.osmc.settings</property>
+			<onclick>RunScript(service.osmc.settings)</onclick>
+			<property name="path">RunScript(service.osmc.settings)</property>
+			<property name="list">RunScript(service.osmc.settings)</property>
 			<visible>True</visible>
-			<property name="submenuVisibility">service-bori-settings</property>
+			<property name="submenuVisibility">service-osmc-settings</property>
 			<property name="group">mainmenu</property>
 			<property name="hasSubmenu">False</property>
 		</item>

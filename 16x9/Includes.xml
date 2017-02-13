@@ -1,7 +1,7 @@
 <includes>
 
 	<include file="Defaults.xml" />
-	<include file="Include_Home_BORI.xml" />
+	<include file="Include_Home_OSMC.xml" />
 	<include file="Includes_Widgets.xml" />
 	<include condition="System.HasAddon(script.skinshortcuts)" file="script-skinshortcuts-includes.xml" />
 	<include condition="!System.HasAddon(script.skinshortcuts)" file="script-skinshortcuts-static.xml" />
@@ -36,7 +36,7 @@
 			<!-- Water Image -->
 			<control type="image">
 				<include>FullscreenDimensions</include>
-				<texture background="true">$VAR[BORIBackgroundImage]</texture>
+				<texture background="true">$VAR[OSMCBackgroundImage]</texture>
 				<visible>![Player.HasVideo + Skin.HasSetting(BackgroundVideo)]</visible>
 				<visible>!$PARAM[animate]</visible>
 			</control>

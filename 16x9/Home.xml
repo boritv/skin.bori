@@ -32,8 +32,8 @@
 		<control type="image">
 			<left>120</left>
 			<top>105</top>
-			<width>50</width>
-			<height>50</height>
+			<width>70</width>
+			<height>70</height>
 			<texture>logo.png</texture>
 			<include>WindowFadeAnimation</include>
 		</control>
@@ -41,7 +41,7 @@
 		<!-- Home layout -->
 		<control type="group">
 			<include>WindowFadeAnimation</include>
-			<include>HomeBORI</include>
+			<include>HomeOSMC</include>
 		</control>
 
 		<!-- RSS -->
