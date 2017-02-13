@@ -41,7 +41,7 @@
 		<!-- Home layout -->
 		<control type="group">
 			<include>WindowFadeAnimation</include>
-			<include>HomeOSMC</include>
+			<include>HomeBORI</include>
 		</control>
 
 		<!-- RSS -->

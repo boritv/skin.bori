@@ -203,6 +203,45 @@
 					<selected>String.IsEqual(Skin.String(BackgroundImage),4)</selected>
 					<visible>ControlGroup(9).HasFocus(11)</visible>
 				</control>
+
+				<control type="radiobutton" id="1204">
+					<width>1220</width>
+					<height>66</height>
+					<onup>101</onup>
+					<textwidth>1120</textwidth>
+					<font>Font33</font>
+					<label>$LOCALIZE[19190] 5</label>
+					<onclick>Skin.SetString(BackgroundImage,5)</onclick>
+					<selected>String.IsEqual(Skin.String(BackgroundImage),5)</selected>
+					<visible>ControlGroup(9).HasFocus(11)</visible>
+				</control>
+
+
+				<control type="radiobutton" id="1205">
+					<width>1220</width>
+					<height>66</height>
+					<onup>101</onup>
+					<textwidth>1120</textwidth>
+					<font>Font33</font>
+					<label>$LOCALIZE[19190] 6</label>
+					<onclick>Skin.SetString(BackgroundImage,6)</onclick>
+					<selected>String.IsEqual(Skin.String(BackgroundImage),6)</selected>
+					<visible>ControlGroup(9).HasFocus(11)</visible>
+				</control>
+
+				<control type="radiobutton" id="1206">
+					<width>1220</width>
+					<height>66</height>
+					<onup>101</onup>
+					<textwidth>1120</textwidth>
+					<font>Font33</font>
+					<label>$LOCALIZE[19190] 7</label>
+					<onclick>Skin.SetString(BackgroundImage,7)</onclick>
+					<selected>String.IsEqual(Skin.String(BackgroundImage),7)</selected>
+					<visible>ControlGroup(9).HasFocus(11)</visible>
+				</control>
+
+
 				<!-- Background video -->
 				<control type="radiobutton" id="1102">
 					<width>1220</width>
