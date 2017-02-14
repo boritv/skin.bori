@@ -30,10 +30,10 @@
 
 		<!-- Logo -->
 		<control type="image">
-			<left>120</left>
+			<left>110</left>
 			<top>105</top>
-			<width>70</width>
-			<height>70</height>
+			<width>64</width>
+			<height>64</height>
 			<texture>logo.png</texture>
 			<include>WindowFadeAnimation</include>
 		</control>
